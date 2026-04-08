@@ -1,6 +1,6 @@
 {
+  "lang": "zsh",
   "url": "https://github.com/georgeharker/tree-sitter-zsh",
   "semver": false,
-  "parser_version": "bd344c23a7683e293d077c6648e88f209782fedb",
-  "lang": "zsh"
+  "parser_version": "bd344c23a7683e293d077c6648e88f209782fedb"
 }
